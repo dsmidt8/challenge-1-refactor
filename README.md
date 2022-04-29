@@ -48,8 +48,8 @@ CSS:
 * Lines 25, 33, 37 - header div to .header nav
 * Line 189 and 196 - .footer to footer
 * Line 11, 18, 25, 34, 37 - .header to header
+
 ## Website
+https://dsmidt8.github.io/challenge-1-refactor/
 
 
-## Contribution
-Made with ❤️ by [your name]
